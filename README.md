@@ -1,4 +1,4 @@
-Challenge Engineer - Segunda Parte - Python y APIs
+Python, Machine Learning, Modelos predictivos y APIs
 
 Objetivo 
 Realizar un análisis sobre la oferta/vidriera de las opciones de productos que responden a distintas búsquedas en el sitio Mercadolibre.com.ar  utilizando el lenguaje Python y las bibliotecas que considere necesarias.
